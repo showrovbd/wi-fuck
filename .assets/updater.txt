@@ -1,0 +1,4 @@
+toolname = "Wifi Hacker"
+version = "1.0.3"
+developer = "Sadman Anik"
+team = "Bilar"
