@@ -55,7 +55,7 @@ SOFTWARE.
 
 + **IF FAILED TURN OFF LOCATION IF TURNED ON.**
 
-Repo : <a href="https://github.com/sadman-11/wifi-hack"> Here </a>
+Repo : <a href="https://github.com/MontouchUK/Wi-Fuck"> Here </a>
 
 ##### Modify History : rofl0r => 🅼🅾🅽🆃🅾🆄🅲🅷🇧🇩
 <div align="center">
