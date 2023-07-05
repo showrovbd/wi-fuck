@@ -7,7 +7,7 @@
 pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install git tsu python wpa-supplicant pixiewps iw -y
-git clone https://github.com/sadman-11/wifi-hack 
+git clone https://github.com/MontouchUK/Wi-Fuck 
 cd wifi-hack 
 pip3 install -r requirements.txt
 chmod +x wifi_hack.py
