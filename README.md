@@ -12,8 +12,8 @@ cd wi-fuck
 pip3 install -r requirements.txt
 chmod +x wi-fuck.py
 ```
-#### Help : `sudo python wifi_hack.py --help`
-#### Example : `sudo python wifi_hack.py -i wlan0 -K`
+#### Help : `sudo python wi-fuck.py --help`
+#### Example : `sudo python wi-fuck.py -i wlan0 -K`
 
 #### Note: 
 + **First turn off your Wifi.**
