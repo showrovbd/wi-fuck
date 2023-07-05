@@ -32,7 +32,7 @@ chmod +x wifi_hack.py
 ````
 MIT License
 
-Copyright (c) 2023 Sadman Anik.
+Copyright (c) 2023 🅼🅾🅽🆃🅾🆄🅲🅷🇧🇩
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -57,9 +57,9 @@ SOFTWARE.
 
 Repo : <a href="https://github.com/sadman-11/wifi-hack"> Here </a>
 
-##### Modify History : rofl0r => Sadman Codes? => Sadman Anik
+##### Modify History : rofl0r => 🅼🅾🅽🆃🅾🆄🅲🅷🇧🇩
 <div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
-<a href="https://fb.com/Sadman.Anik.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sadman" height="30" width="40" /></a>
+<a href="https://fb.com/montouch.mohaimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Montouch" height="30" width="40" /></a>
 </div>
 <a href="https://github.com/sadman-11">  <img align="center" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=sadman-11.wifi-hack"></a>
